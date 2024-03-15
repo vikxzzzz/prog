@@ -92,5 +92,5 @@ calculadora_simples()
 """
 Criei funçoes para as operaçoes pedidas na calculadora
 e então usei os comandos de decisão para verificar qual das operaçoes está sendo pedida
-
+"""
 """
