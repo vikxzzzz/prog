@@ -13,8 +13,6 @@ def determina_tipo_triangulo(a,b,c):
             return "Escaleno"
     else:
         return "Não é um triângulo"
-
-# Testando o código 
         
 
 print(determina_tipo_triangulo(4, 4, 4)) # Equilátero
@@ -55,8 +53,10 @@ print(dia_semana(6)) # sexta-feira
 print(dia_semana(7)) # sábado
 print(dia_semana(9)) # string vazia
 
+"""
+Usei o raciocínio do uso de decisao com if e elif
 
-
+"""
 
 # EXERCÍCIO 3
 
@@ -88,3 +88,9 @@ def calculadora_simples():
           print("Operação inválida!")
 
 calculadora_simples()
+
+"""
+Criei funçoes para as operaçoes pedidas na calculadora
+e então usei os comandos de decisão para verificar qual das operaçoes está sendo pedida
+
+"""
