@@ -1,11 +1,11 @@
-def calcula_salario(valor_hora, num_hora):
+# EXERCÍCIO 2 
+
+def calcula_salario(valor_hora, num_hora, irpf = 0.275):
     salario = float(round(valor_hora * num_hora))
-    irpf = float(round(0.275 * salario,4))
-    salario_liquido = float(round(salario - irpf))
+    salario_liquido = salario * irpf
+    total = salario - salario_liquido
+    print("O valor do salário será:",total)
     
-    print("O salário líquido é:", salario_liquido)
-    print("O imposto de renda será de:",irpf)
-    print("O salário bruto será de:",salario)
 
 calcula_salario(10, 200)
 
