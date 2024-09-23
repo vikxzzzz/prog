@@ -1,0 +1,21 @@
+1 - É o modelo que compreende um conjunto de abstrações, do nível de aplicação (mais alta) 
+até o nível de lógica digital, de modo que cada programa em um nível seja convertido para um
+nível subjacente inferiror, seja por tradução ou por interpretação.
+
+2 - Sistema operacional (nível 3), se refere a gestão de i/o, segurança de processos, memória, 
+e ela é uma camada híbrida.
+
+3 - Linguagem de máquina
+
+4 - a, c
+
+5 - Fica na camada de microarquitetura 
+
+6 - 
+
+7 -  OPCODE -> É uma palvra binaria que identifica de forma inequivoca cada instrução 
+OPERANDO -> Dado ou endereço do dado 
+
+8 - O OPCODE é interpretado pela UC para chavear os circuitos que resolvem a instrução 
+
+10 - 

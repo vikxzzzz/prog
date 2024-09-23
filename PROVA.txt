@@ -1,0 +1,9 @@
+1 - 2 pontos, multipla escolha, conceitos básicos 
+
+2 - Máquina de Von Neuman, discursiva (1,5 pontos)
+
+3 - discursiva
+
+4 - Código em Assembly (1 ponto)
+
+5 - Lógica digital 
