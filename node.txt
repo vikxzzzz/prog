@@ -1,0 +1,8 @@
+- Instalar Codeium na Visula Studio (ctrl + shift + i - para ativar a IA)
+- Instalar o NODE: binários pré-compilados(versão v20 18 LTS), copiar isso em disciplina que está no NodeViteReact (rundll32 sysdm.cpl,EditEnvironmentVariables) para abrir a variável de ambiente, vai em PATH e colocar o link 
+de caminho do node 
+
+
+- npm create vite@latest my-react-app --template react
+depois disso escolher o react, depois escolher JS 
+
